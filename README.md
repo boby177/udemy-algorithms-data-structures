@@ -1,4 +1,4 @@
-# Big O Nation
+# Big O Notation
 
 ### There is some question
 Suppose we want to write a function that
