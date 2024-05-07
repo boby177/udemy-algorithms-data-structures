@@ -1,2 +1,2 @@
-# udemy-algorithms-data-structures
-This is course section from some code on class Udemy : JavaScript Algorithms and Data Structures Masterclass
+# Udemy Course about Alogrithms and Data Structures
+To visit the class, you can check the link here : https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass
